@@ -96,6 +96,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinIW&show_icons=true&locale=en" alt="KevinIW" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinIW&" alt="KevinIW" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinIW&" alt="KevinIW" /></p>
-
