@@ -54,12 +54,11 @@
 <p align="left">
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://pytorch.org/vision/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/pytorch-logo-dark.svg" alt="torchvision" width="40" height="40"/> </a>
-<a href="https://pillow.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/master/pillow-logo-248x250.png" alt="pillow" width="40" height="40"/> </a>
 </p>
 
 <h4>Data Analytics</h4>
 <p align="left">
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
 <h4>Big Data</h4>
@@ -88,7 +87,6 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40"/> </a>
 </p>
@@ -96,6 +94,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinIW&show_icons=true&locale=en&layout=compact" alt="KevinIW" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinIW&show_icons=true&locale=en" alt="KevinIW" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinIW&" alt="KevinIW" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinIW&" alt="KevinIW" /></p>
 
