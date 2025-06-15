@@ -33,6 +33,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/favicon.ico" alt="transformers" width="40" height="40"/> </a>
+<a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost" width="40" height="40"/> </a>
+<a href="https://catboost.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/> </a>
+<a href="https://lightgbm.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="lightgbm" width="40" height="40"/> </a>
 </p>
 
 <h4>Natural Language Processing (NLP)</h4>
@@ -96,4 +99,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinIW&show_icons=true&locale=en" alt="KevinIW" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinIW&" alt="KevinIW" /></p>
-
